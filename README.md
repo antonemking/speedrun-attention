@@ -1,4 +1,4 @@
-# 🚀 Attention Speedrun: Conquer Transformers in Record Time!
+# 🚀 Attention Speedrun
 
 ![banner](https://github.com/antonemking/speedrun-attention/blob/main/attention-banner.jpeg?raw=true)
 
