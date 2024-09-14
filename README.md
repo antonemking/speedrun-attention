@@ -1,6 +1,6 @@
 # 🚀 Attention Speedrun: Conquer Transformers in Record Time!
 
-![banner]([http://url/to/img.png](https://github.com/antonemking/speedrun-attention/blob/main/attention-banner.jpeg))
+![banner]([https://github.com/antonemking/speedrun-attention/blob/main/attention-banner.jpeg](https://github.com/antonemking/speedrun-attention/blob/main/attention-banner.jpeg?raw=true)))
 
 Welcome to **Attention Speedrun** – a fast, fun way to master the "Attention Is All You Need" paper! 🌟 Your goal is to progress through quests that help you understand and implement Transformers step by step.
 
