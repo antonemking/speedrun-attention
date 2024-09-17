@@ -1,4 +1,6 @@
-# 🚀 Attention Speedrun
+
+
+# 🚀 Attention Speedrun [![Netlify Status](https://api.netlify.com/api/v1/badges/1ae39d27-8bb7-4879-97f5-4fde53dab894/deploy-status)](https://app.netlify.com/sites/speedrunattention/deploys)
 
 ![banner](https://github.com/antonemking/speedrun-attention/blob/main/attention-banner.jpeg?raw=true)
 
