@@ -27,11 +27,11 @@ function EmailCapture() {
       {!submitted ? (
         <form
           name="contact"
-          method="POST"
+          method="GET"
+          data-netlify="true"
           netlify-honeypot="bot-field" // Anti-spam honeypot
           onSubmit={handleSubmit}
           className="max-w-md mx-auto bg-white p-6 rounded-lg shadow-lg"
-          netlify
         >
           {/* Netlify hidden input fields */}
           <input type="hidden" name="form-name" value="email-capture" />
