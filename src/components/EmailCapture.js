@@ -33,11 +33,8 @@ function EmailCapture() {
           onSubmit={handleSubmit}
           className="max-w-md mx-auto bg-white p-6 rounded-lg shadow-lg"
         >
-          {/* Netlify hidden input fields */}
-          <input type="hidden" name="form-name" value="email-capture" />
-          <input type="hidden" name="bot-field" />
 
-          <h2 className="text-2xl font-bold mb-4">Request Challenge 2</h2>
+          <h2 className="text-2xl font-bold mb-4">Request the next Challenge</h2>
 
           {/* Email input */}
           <label className="block mb-4">
